@@ -113,7 +113,7 @@ footer {
 }
 
 .credit > span {
-  font-size: 2rem;
+  font-size: 1.75rem;
   font-weight: bold;
   color: #0d145c;
   margin: 0 4px;
@@ -180,15 +180,19 @@ footer {
   background-color: rgb(8 62 158 / 0.2);
 }
 
+/* LOGIN PAGE */
+
 .login {
   background-color: #d94f00;
   color: white;
 }
 
-.submit {
+.button_submit {
   color: #101326;
   background-color: white;
 }
+
+/* .back_id: */
 
 .img_border {
   border-radius: 25px;
@@ -213,6 +217,18 @@ form {
   margin: 1.5rem 0;
 }
 
+label {
+  display: inline-block;
+  font-size: 1.5rem;
+  position: relative;
+  left: 24px;
+  top: 44px;
+  opacity: 0.8;
+  font-weight: 500;
+}
+
+/* SUCCESS MESSAGE */
+
 .success {
   background-image: url(/assets/img/background.png);
   background-repeat: no-repeat;
@@ -220,21 +236,11 @@ form {
   background-size: auto;
 }
 
-.success_message {
+.flex_center_colum {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-}
-
-label {
-  display: inline-block;
-  font-size: 1.5rem;
-  position: relative;
-  left: 24px;
-  top: 44px;
-  opacity: 0.4;
-  font-weight: 500;
 }
 
 .connected {
