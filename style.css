@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  font: 62.5% 'Comic Sans', sans-serif;
+  font: 62.5% 'Euclid Circular A', sans-serif;
 }
 
 *,
@@ -244,7 +244,6 @@ label {
   margin: 5rem 0 3rem;
 }
 
-.service{
+.service {
   margin-left: 8px;
 }
-

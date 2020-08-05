@@ -1,0 +1,177 @@
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Bold.eot');
+  src: local('Euclid Circular A Bold'),
+    local('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Bold'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Bold.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Bold.woff2')
+      format('woff2'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Bold.woff')
+      format('woff'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Bold.ttf')
+      format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Light.eot');
+  src: local('Euclid Circular A Light'),
+    local('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Light'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Light.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Light.woff2')
+      format('woff2'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Light.woff')
+      format('woff'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Light.ttf')
+      format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-BoldItalic.eot');
+  src: local('Euclid Circular A Bold Italic'),
+    local(
+      'https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-BoldItalic'
+    ),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-BoldItalic.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-BoldItalic.woff2')
+      format('woff2'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-BoldItalic.woff')
+      format('woff'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-BoldItalic.ttf')
+      format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-LightItalic.eot');
+  src: local('Euclid Circular A Light Italic'),
+    local(
+      'https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-LightItalic'
+    ),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-LightItalic.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-LightItalic.woff2')
+      format('woff2'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-LightItalic.woff')
+      format('woff'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-LightItalic.ttf')
+      format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Regular.eot');
+  src: local('Euclid Circular A Regular'),
+    local('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Regular'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Regular.woff2')
+      format('woff2'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Regular.woff')
+      format('woff'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Regular.ttf')
+      format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-SemiBold.eot');
+  src: local('Euclid Circular A SemiBold'),
+    local('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-SemiBold'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-SemiBold.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-SemiBold.woff2')
+      format('woff2'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-SemiBold.woff')
+      format('woff'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-SemiBold.ttf')
+      format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Medium.eot');
+  src: local('Euclid Circular A Medium'),
+    local('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Medium'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Medium.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Medium.woff2')
+      format('woff2'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Medium.woff')
+      format('woff'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Medium.ttf')
+      format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Italic.eot');
+  src: local('Euclid Circular A Italic'),
+    local('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Italic'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Italic.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Italic.woff2')
+      format('woff2'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Italic.woff')
+      format('woff'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-Italic.ttf')
+      format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-SemiBoldItalic.eot');
+  src: local('Euclid Circular A SemiBold Italic'),
+    local(
+      'https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-SemiBoldItalic'
+    ),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-SemiBoldItalic.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-SemiBoldItalic.woff2')
+      format('woff2'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-SemiBoldItalic.woff')
+      format('woff'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-SemiBoldItalic.ttf')
+      format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-MediumItalic.eot');
+  src: local('Euclid Circular A Medium Italic'),
+    local(
+      'https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-MediumItalic'
+    ),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-MediumItalic.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-MediumItalic.woff2')
+      format('woff2'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-MediumItalic.woff')
+      format('woff'),
+    url('https://mono-t2.herokuapp.com/assets/font/EuclidCircularA-MediumItalic.ttf')
+      format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
