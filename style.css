@@ -102,6 +102,63 @@ footer {
   margin: 0 4px;
 }
 
+/* INSTITUTIONS */
+
 .back_button {
   margin: 2rem 0;
+}
+
+.search {
+  width: 100%;
+  border: none;
+  height: 52px;
+  background-color: rgb(104 243 169 / 0.1);
+  color: #101326;
+  font-size: 1.75rem;
+  padding: 16px 5rem 16px;
+  border-radius: 16px;
+  position: relative;
+}
+
+#search-icon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  left: 16px;
+  top: -36px;
+}
+
+.products {
+  margin: 3rem 0;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.product {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 140px;
+  height: 140px;
+  border-radius: 24px;
+  margin: 1rem 0;
+}
+
+.product:nth-of-type(1n) {
+  background-color: rgb(217 79 0 / 0.2);
+}
+
+.product:nth-of-type(2n) {
+  background-color: rgb(137 52 173 / 0.2);
+}
+
+.product:nth-of-type(3n) {
+  background-color: rgb(5 93 224 / 0.2);
+}
+
+.product:nth-of-type(4n) {
+  background-color: rgb(8 62 158 / 0.2);
 }
