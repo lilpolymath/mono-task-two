@@ -23,7 +23,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  animation: scaling 500ms ease-in;
+  animation: scaling 600ms ease-in;
+  animation-timing-function: cubic-bezier(.28,.38,.66,.94);
 }
 
 @keyframes scaling {
